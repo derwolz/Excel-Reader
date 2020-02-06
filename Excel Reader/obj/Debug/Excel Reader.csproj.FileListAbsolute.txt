@@ -1,0 +1,17 @@
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\Excel Reader.exe.config
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\Excel Reader.exe
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\Excel Reader.pdb
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\EntityFramework.dll
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\ExcelDataReader.dll
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\EntityFramework.xml
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\ExcelDataReader.pdb
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\ExcelDataReader.xml
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\obj\Debug\Excel Reader.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\obj\Debug\Excel Reader.csproj.CopyComplete
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\obj\Debug\Excel Reader.exe
+C:\Users\Dr Sam Hyde\source\repos\Excel-Reader\Excel Reader\obj\Debug\Excel Reader.pdb
